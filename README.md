@@ -5,4 +5,4 @@
  - I work on architecture, tooling, build optimisations, features on iOS and BFF (backend-for-frontend) service.
 
 # 📁 Previous workplaces: 
-- 🎧 Tidal
+- 🎧 [Tidal]([url](https://tidal.com))
