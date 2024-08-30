@@ -1,8 +1,8 @@
 # ℹ️ About me
-- My name is Robin, I've been working as a software engineer since 2018. Creating delightful software for MacOS/iOS with `C++`, `Objective-C` and `Swift` along with backend-for-frontend services written in `Java`, `Kotlin`, `TypeScript` and `Python`. I also dabbled with `Bash`, `Ruby` and `React` as well as other suitable languages/tools😄
+- I've been a professional software engineer since 2017, crafting delightful products using `C++`, `Objective-C`, and `Swift`, alongside developing backend-for-frontend services with `Java`/`Kotlin`, `TypeScript`, and `Python`. I also occasionally dabble in `Ruby`, `Bash`, and other suitable languages and tools 😄
 
-# 💼 Current workplace
- - I work on architecture, build optimisations, tooling and features for iOS along with backend-for-frontend services at [FINN](https://www.finn.no).
+# 💼 Current work
+ - As a member of the horizontal platform team at [FINN](https://www.finn.no), I contribute and work on architecture, build optimizations, tooling, and feature modules for iOS, as well as backend-for-frontend services.
 
 # 📁 Previous workplaces: 
 - 🎧 [Tidal](https://tidal.com)
