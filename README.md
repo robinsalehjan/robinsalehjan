@@ -1,5 +1,10 @@
 ## 💼 Current
- - Platform engineer at 🛍️[FINN](https://www.finn.no) my focus area is on architecture, build and test optimizations, tooling and feature modules for `iOS` but also maintaining and developing our suite of `backend-for-frontend` services in `Java` and `Kotlin`.
+ - 🛍️ [Platform engineer at FINN](https://www.finn.no)
 
-## 🏢 Previous: 
-- 🎧[Tidal](https://tidal.com)
+
+## 🏢 Previous
+- 🎧 [Quality Assurance engineer at Tidal](https://tidal.com)
+
+
+## 🖌️ Open source
+[![vscode-xcode-shortcuts](https://github-readme-stats.vercel.app/api/pin/?username=robinsalehjan&repo=vscode-xcode-shortcuts&theme=gradient)](https://github.com/robinsalehjan/vscode-xcode-shortcuts)
