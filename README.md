@@ -2,7 +2,7 @@
 - 🛍️ [Software Engineer at FINN](https://www.finn.no)
 
 ## 🏢 Previous
-- 🎧 [Quality assurance engineer at TIDAL](https://tidal.com)
+- 🎧 [Quality Assurance Engineer at TIDAL](https://tidal.com)
 &nbsp;
 
 ## 🖌️ Products
