@@ -1,8 +1,8 @@
 ## 💼 Current
-- 🛍️ [iOS platform engineer at FINN](https://www.finn.no)
+- 🛍️ [Software Engineer at FINN](https://www.finn.no)
 
 ## 🏢 Previous
-- 🎧 [Quality assurance engineer at Tidal](https://tidal.com)
+- 🎧 [Quality assurance engineer at TIDAL](https://tidal.com)
 &nbsp;
 
 ## 🖌️ Products
