@@ -6,4 +6,4 @@
 
 
 ## 🖌️ Products in the wild
-[![vscode-xcode-shortcuts](https://github-readme-stats.vercel.app/api/pin/?username=robinsalehjan&repo=vscode-xcode-shortcuts)](https://github.com/robinsalehjan/vscode-xcode-shortcuts)
+- ⭐ [vscode-xcode-shortcuts](https://marketplace.visualstudio.com/items?itemName=robinsalehjan.xcode-vscode-shortcuts)
